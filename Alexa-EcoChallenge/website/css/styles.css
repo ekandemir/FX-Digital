@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+    font-size: 16px;
+}
+
+#feature {
+    background-image: url('../images/header-image.png');
+    background-size: cover;
+    height: 470px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat;
+}
+
+.header {
+    text-align: center;
+    font-size: 3.875rem;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding: 200px 0;
+}
+
+#skill-section {
+    text-align: center;
+    padding-bottom: 85px;
+}
+
+#skill-section img{
+    padding-top: 105px;
+    padding-bottom: 85px
+}
+
+#skill-section a {
+    display: block;
+    text-decoration: none;
+    background-color: #40e0d4;
+    max-width: 200px;
+    margin: auto;
+    color: #FFFFFF;
+    padding: 17px 55px;
+}
+#footer a{
+    color : #ffffff;
+    text-decoration: underline;
+}
+#footer a:active {
+    color : #ff0000;
+    text-decoration: underline dotted red ;
+}
+.skillBtn {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.44rem;
+    color: #FFFFFF;
+}
+
+#environment-section {
+    background-color: #40e0d4;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+#environment-section h1 {
+    padding-top:60px;
+}
+
+#environment-section p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5rem;
+    padding-top: 40px;
+    padding-bottom: 70px;
+}
+
+#icons-section {
+    background-color: #d7f2e4;
+    text-align: center;
+    padding-bottom: 90px;
+    color: #FFFFFF;
+    text-transform: uppercase;
+
+}
+
+#icons-section img {
+    margin-top: 90px;
+}
+
+#icons-section p {
+    font-size: 1.5rem;
+    color: #40e0d4;
+    padding-top: 12px;
+}
+
+#footer {
+    background-color: #40e0d4;
+    color: #FFFFFF;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    padding: 35px 0;
+}

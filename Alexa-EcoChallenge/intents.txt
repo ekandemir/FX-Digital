@@ -1,0 +1,72 @@
+HELP
+
+"what should i say",
+"what should i do",
+"how can i get a mission",
+"help please",
+"please help",
+"help"
+
+
+STOP
+
+"shut up",
+"see you",
+"good bye",
+"bye",
+"stop"
+
+ASK A MISSION
+
+"now",
+"say it",
+"tell it",
+"say",
+"tell",
+"give me the mission",
+"give my mission",
+"may i have a mission",
+"can i get a mission",
+"say my mission",
+"mission",
+"mission please",
+"daily mission",
+"tell my mission",
+"tell me my mission"
+
+
+YES/COMPLETE THE MISSION
+
+ "it is done",
+"it s done",
+"i did my mission",
+"i completed my mission",
+"mission accomplished",
+"mission completed",
+"i completed",
+"yes man",
+"i do",
+"i have done",
+"i ve done",
+"i complete my mission",
+"i had",
+"i have",
+"yeah",
+"yep",
+"yes i did",
+"i did",
+"yes"
+
+NO/ NOT COMPLETED THE MISSION
+
+"i am going to",
+"i will",
+"i havent",
+"i have not",
+"i don't",
+"maybe later",
+"not yet",
+"i did not",
+"i didn't",
+"no"
+
